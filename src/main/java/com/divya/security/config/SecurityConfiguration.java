@@ -13,7 +13,6 @@ import org.springframework.security.web.SecurityFilterChain;
 import com.divya.security.service.UserInfoUserDetailsService;
 
 @Configuration
-//@EnableWebSecurity
 public class SecurityConfiguration {
 
 	
